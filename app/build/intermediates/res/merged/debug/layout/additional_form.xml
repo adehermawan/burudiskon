@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:entries="@array/bank"
+        />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        >
+        <CheckBox android:id="@+id/chk_lifestyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lifestyle"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox android:id="@+id/chk_food_baverages"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Food and Beverages"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox android:id="@+id/chk_entertainment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Entertainment"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox android:id="@+id/chk_fashion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fashion"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox android:id="@+id/chk_accesories"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Accesories"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox android:id="@+id/chk_groceries"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Groceries"
+            android:onClick="onCheckboxClicked"/>
+    </LinearLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Save"
+        />
+
+</RelativeLayout>
+<!-- From: file:/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/res/layout/additional_form.xml -->

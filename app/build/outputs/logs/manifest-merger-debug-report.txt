@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:4:5-40
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.github.asne:asne-facebook:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/AndroidManifest.xml:12:5-67
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:13:5-67
+MERGED from [com.github.asne:asne-twitter:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-twitter/0.3.3/AndroidManifest.xml:12:5-67
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:13:5-67
+MERGED from [com.github.asne:asne-googleplus:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-googleplus/0.3.3/AndroidManifest.xml:12:5-67
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:13:5-67
+MERGED from [com.github.asne:asne-linkedin:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-linkedin/0.3.3/AndroidManifest.xml:12:5-67
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:9:5-53:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.navasmdc:MaterialDesign:1.5] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.5/AndroidManifest.xml:11:5-47
+MERGED from [com.github.asne:asne-facebook:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/AndroidManifest.xml:15:5-19:19
+MERGED from [com.facebook.android:facebook-android-sdk:3.19.1] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.19.1/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:16:5-20:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.asne:asne-twitter:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-twitter/0.3.3/AndroidManifest.xml:15:5-47
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:16:5-20:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.asne:asne-googleplus:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-googleplus/0.3.3/AndroidManifest.xml:17:5-18:19
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:16:5-20:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.asne:asne-linkedin:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-linkedin/0.3.3/AndroidManifest.xml:15:5-16:19
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:16:5-20:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.burudiskon.burudiskon.SplashScreen
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:18:13-45
+	android:noHistory
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.burudiskon.burudiskon.MainActivity
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:29:13-41
+activity#com.burudiskon.burudiskon.AdditionalForm
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:38:9-44:20
+	android:label
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:39:13-40
+	android:name
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:38:19-49
+meta-data#com.google.android.gms.version
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:46:9-48:68
+	android:value
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:47:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:49:9-51:54
+	android:value
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml:50:13-58
+uses-sdk
+INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.github.navasmdc:MaterialDesign:1.5] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.asne:asne-facebook:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:3.19.1] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.github.asne:asne-twitter:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-twitter/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.github.asne:asne-googleplus:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-googleplus/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services:4.3.23] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.3.23/AndroidManifest.xml:7:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.github.asne:asne-linkedin:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-linkedin/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.github.asne:asne-facebook:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/AndroidManifest.xml:13:5-80
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:14:5-80
+MERGED from [com.github.asne:asne-twitter:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-twitter/0.3.3/AndroidManifest.xml:13:5-80
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:14:5-80
+MERGED from [com.github.asne:asne-googleplus:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-googleplus/0.3.3/AndroidManifest.xml:13:5-80
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:14:5-80
+MERGED from [com.github.asne:asne-linkedin:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-linkedin/0.3.3/AndroidManifest.xml:13:5-80
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [com.github.asne:asne-facebook:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/AndroidManifest.xml:13:22-77
+activity#com.facebook.LoginActivity
+ADDED from [com.github.asne:asne-facebook:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/AndroidManifest.xml:16:9-18:75
+	android:theme
+		ADDED from [com.github.asne:asne-facebook:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/AndroidManifest.xml:18:13-72
+	android:name
+		ADDED from [com.github.asne:asne-facebook:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/AndroidManifest.xml:17:13-54
+activity#com.github.gorbin.asne.core.OAuthActivity
+ADDED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:17:9-19:80
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:17:9-19:80
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:17:9-19:80
+MERGED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:17:9-19:80
+	android:theme
+		ADDED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:19:13-77
+	android:name
+		ADDED from [com.github.asne:asne-core:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/AndroidManifest.xml:18:13-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.github.asne:asne-googleplus:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-googleplus/0.3.3/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from [com.github.asne:asne-googleplus:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-googleplus/0.3.3/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.github.asne:asne-googleplus:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-googleplus/0.3.3/AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from [com.github.asne:asne-googleplus:0.3.3] /Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-googleplus/0.3.3/AndroidManifest.xml:15:22-71

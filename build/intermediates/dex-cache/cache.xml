@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.19.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="44fd589d7c4f5bf1aa2df0167315a1b1e1a20d83">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-0302786b63cc18c964abb5b380dc4b2239bc933b.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-55b895d22090e02fea37e84d727562ff9ce500d2.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.2/91c20388c9a45f62b5ed8fe0502bb76ff6251fc7/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-57de11c0d68bf7c77165bd3b2c83078ef988cc59.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5d1cc975ceacc381f9e3d747132e0bccbd57765">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-ffed744cab82c6ac555f142d08d681bc5b70c422.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-a31f736ffb0dba7e56d0d76ccb1546acd5b6946b.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-linkedin/0.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6b6c99fc3fe35a8647349625e8db7102df9cc2fa">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-774c55a6c6daffed1544f417d6a0fdb3988e8de5.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-e9ce52a23d506435274ff2e9dff720067eb7c748.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.3.23/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-c7c58243ba3063ddcee873a5f71bdb9c6acf13c1.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6ff43b52f1ae802e5c16eb12e7215eedcf08fa51">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-c2b8e62af09bcb9ab43a034a72217da22461a0b3.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.2/6555e7c45f5db0006823731b2ddb536d481e11d1/twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6555e7c45f5db0006823731b2ddb536d481e11d1">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.2-5c2c7fb70465e3926500827394173bd602a759d2.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-linkedin/0.3.3/jars/libs/linkedin-j-android-1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="13bae5a8934c403ab39853974dd6e798d2217ae7">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/linkedin-j-android-1.0-918d1fc649be9cb9b66bab88fd8aaf9c408bfba7.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-ca0639335e3c973de8602ba10d53293fd44b4ea0.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/jars/libs/signpost-commonshttp4-1.2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1e6380adcb5808bfe13a934a2f35bfeed1adbc49">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/signpost-commonshttp4-1.2.1.1-c6d2af59aaa487f4140674f0774695a1343dfa34.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-googleplus/0.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="23d93de6f3ad242c266db371dbe34fcbe2605503">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-9b3e229f3c067be46acb55373961677ffd5d4798.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-10ca82ee582600b7f4f7e46e5eefb48c71a284bc.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/libs/picasso-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/picasso-2.2.0-d39f115f87924221d9b3a2ef3ac6d680e7da8145.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-core/0.3.3/jars/libs/signpost-core-1.2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="47d92007ca13efd47efad1af94d842ecb5066310">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/signpost-core-1.2.1.1-f224d1800f8cea6eb973462c5c7debffd2d055e1.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.asne/asne-twitter/0.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="842ae6cb005a3f5cc06d6eaf0ea062b3b46227e3">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-106c0876fd0bda1ac8b9cd9ac2e08af097f6def1.jar" />
+    </item>
+    <item
+        jar="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="12b228574de7977e56e41cbfb385b1463bbdb41a">
+        <dex dex="/Users/adehermawan/AndroidStudioProjects/BuruDiskon/app/build/intermediates/pre-dexed/debug/classes-90209a22594a94d7d0f7a22ccf193c904ae9d93d.jar" />
+    </item>
+
+</items>
